@@ -1,0 +1,38 @@
+.header-img,
+.imgKiloren,
+.imgStorm {
+  height: 100%;
+  width: 100%;
+}
+.header-menu {
+  position: absolute;
+  top: 15px;
+  left: 43px;
+  right: 43px;
+  background: rgba(0, 0, 0, 0.7);
+}
+.header-menu ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.header-menu li {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 22px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-menu {
+  /* position: fixed; */
+}

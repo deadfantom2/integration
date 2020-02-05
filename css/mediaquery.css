@@ -1,0 +1,15 @@
+/* Stack the layout on small devices/viewports. */
+@media all and (max-width: 400px) {
+  body {
+    grid-template-areas:
+      'header'
+      'HeaderContent1'
+      'HeaderContent2'
+      'ImgKiloren'
+      'ContentKiloren'
+      'ImgStorm'
+      'footer';
+    grid-template-rows: 400px 1fr 400px 1fr 250px 1fr;
+    grid-template-columns: 1fr;
+  }
+}
