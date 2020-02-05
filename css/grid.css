@@ -21,15 +21,15 @@ content,
   grid-area: header;
 }
 #HeaderContent {
-  grid-area: HeaderContent1;
+  grid-area: HeaderContent;
   border: 1px solid black;
   font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 22px;
-  /* width: 380px;
-  margin-left: 122px; */
+  width: 1000px;
+  margin-left: 122px;
 }
 
 #imgKiloren {

@@ -28,11 +28,12 @@
   text-transform: uppercase;
 }
 
-.content {
+#headerContent {
+  width: 100%;
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: row;
 }
 
-.header-menu {
-  /* position: fixed; */
-}
+/* .header-menu {
+  position: fixed;
+} */
