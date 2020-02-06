@@ -18,4 +18,7 @@
   .article_kiloren_text__right {
     width: 18.75rem;
   }
+  .menu_img {
+    display: block;
+  }
 }
