@@ -1,0 +1,21 @@
+@media all and (max-width: 375px) {
+  /*Iphone6*/
+  .header-menu {
+    display: none;
+  }
+  .article_ad {
+    margin-top: 2rem;
+  }
+  .article_ad__text {
+    text-align: center;
+  }
+  .article_ad__img {
+    display: none;
+  }
+  .kiloren_img {
+    margin-top: 9.5rem;
+  }
+  .article_kiloren_text__right {
+    width: 18.75rem;
+  }
+}
